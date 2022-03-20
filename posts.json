@@ -1,0 +1,31 @@
+[
+	{
+		"username": "Gottfried",
+		"text": "Test (first post)",
+		"id": 1,
+		"parent": null,
+		"created_at": 1647082966906,
+		"last_interaction": 1647083005491,
+		"likes": [
+			"Gottfried"
+		]
+	},
+	{
+		"username": "Gottfried",
+		"text": "my reply",
+		"parent": 1,
+		"id": 2,
+		"created_at": 1647082979154,
+		"last_interaction": null,
+		"likes": []
+	},
+	{
+		"username": "Gottfried",
+		"text": "my other reply",
+		"parent": 1,
+		"id": 3,
+		"created_at": 1647082996674,
+		"last_interaction": null,
+		"likes": []
+	}
+]
